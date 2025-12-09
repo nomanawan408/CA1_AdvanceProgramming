@@ -1,0 +1,14 @@
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfoInputs.cache
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfo.cs
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.csproj.CoreCompileInputs.cache
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\bin\Debug\net8.0\ContactBook.exe
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\bin\Debug\net8.0\ContactBook.deps.json
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\bin\Debug\net8.0\ContactBook.runtimeconfig.json
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\bin\Debug\net8.0\ContactBook.dll
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\bin\Debug\net8.0\ContactBook.pdb
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.dll
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\refint\ContactBook.dll
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.pdb
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ContactBook.genruntimeconfig.cache
+D:\DBS\Advance Programming\CA1\Q1_ContactBook\obj\Debug\net8.0\ref\ContactBook.dll

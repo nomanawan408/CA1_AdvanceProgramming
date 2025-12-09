@@ -1,0 +1,14 @@
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\bin\Debug\net8.0\Q2_FileExtensions.exe
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\bin\Debug\net8.0\Q2_FileExtensions.deps.json
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\bin\Debug\net8.0\Q2_FileExtensions.runtimeconfig.json
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\bin\Debug\net8.0\Q2_FileExtensions.dll
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\bin\Debug\net8.0\Q2_FileExtensions.pdb
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.AssemblyInfoInputs.cache
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.AssemblyInfo.cs
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.csproj.CoreCompileInputs.cache
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.dll
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\refint\Q2_FileExtensions.dll
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.pdb
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\Q2_FileExtensions.genruntimeconfig.cache
+D:\DBS\Advance Programming\CA1\Q2_FileExtensions\obj\Debug\net8.0\ref\Q2_FileExtensions.dll
